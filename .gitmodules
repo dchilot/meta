@@ -1,0 +1,51 @@
+[submodule "proxy-simulator"]
+	path = proxy-simulator
+	url = https://github.com/orwell-int/proxy-simulator.git
+[submodule "agent-server-game-python"]
+	path = agent-server-game-python
+	url = https://github.com/orwell-int/agent-server-game-python.git
+[submodule "rfid-scanner"]
+	path = rfid-scanner
+	url = https://github.com/orwell-int/rfid-scanner.git
+[submodule "capture-video"]
+	path = capture-video
+	url = https://github.com/orwell-int/capture-video.git
+[submodule "robots-ev3-setup"]
+	path = robots-ev3-setup
+	url = https://github.com/orwell-int/robots-ev3-setup.git
+[submodule "proxy-robots"]
+	path = proxy-robots
+	url = https://github.com/orwell-int/proxy-robots.git
+[submodule "robots-ev3"]
+	path = robots-ev3
+	url = https://github.com/orwell-int/robots-ev3.git
+[submodule "server-proxy-web-python"]
+	path = server-proxy-web-python
+	url = https://github.com/orwell-int/server-proxy-web-python.git
+[submodule "arduino-flags"]
+	path = arduino-flags
+	url = https://github.com/orwell-int/arduino-flags.git
+[submodule "lejos-mf-common"]
+	path = lejos-mf-common
+	url = https://github.com/orwell-int/lejos-mf-common.git
+[submodule "lejos-mf-pc"]
+	path = lejos-mf-pc
+	url = https://github.com/orwell-int/lejos-mf-pc.git
+[submodule "deb-utils"]
+	path = deb-utils
+	url = https://github.com/orwell-int/deb-utils.git
+[submodule "rfid-ioctl-c"]
+	path = rfid-ioctl-c
+	url = https://github.com/orwell-int/rfid-ioctl-c.git
+[submodule "messages"]
+	path = messages
+	url = https://github.com/orwell-int/messages.git
+[submodule "server-game"]
+	path = server-game
+	url = https://github.com/orwell-int/server-game.git
+[submodule "lejos-mf-nxt"]
+	path = lejos-mf-nxt
+	url = https://github.com/orwell-int/lejos-mf-nxt.git
+[submodule "server-web"]
+	path = server-web
+	url = https://github.com/orwell-int/server-web.git

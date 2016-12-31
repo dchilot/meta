@@ -1,0 +1,17 @@
+agent-server-game-python
+arduino-flags
+capture-video
+deb-utils
+lejos-mf-common
+lejos-mf-nxt
+lejos-mf-pc
+messages
+proxy-robots
+proxy-simulator
+rfid-ioctl-c
+rfid-scanner
+robots-ev3
+robots-ev3-setup
+server-game
+server-proxy-web-python
+server-web
